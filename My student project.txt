@@ -1,0 +1,6 @@
+My student project
+Name: seana pereira
+Class: fybsc
+Course: computer software fundamentals
+This is my first project using Github
+
