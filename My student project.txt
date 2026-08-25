@@ -3,4 +3,6 @@ Name: seana pereira
 Class: fybsc
 Course: computer software fundamentals
 This is my first project using Github
+what i learned:
+Github can be used to store and share project files.
 
